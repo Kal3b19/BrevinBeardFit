@@ -465,7 +465,7 @@ a:focus {
 
 .about_section .about_container {
   padding: 45px;
-  background: url("images/IMG_2340.jpeg");
+  background-image: url("images/IMG_2340.jpeg");
   background-size: cover;
 }
 

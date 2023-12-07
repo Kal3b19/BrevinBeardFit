@@ -465,7 +465,7 @@ a:focus {
 
 .about_section .about_container {
   padding: 45px;
-  background-image: url("images/IMG_2340.jpeg");
+  background: url("/images/IMG_2340.jpeg");
   background-size: cover;
 }
 
@@ -737,13 +737,13 @@ color: #BB8B41;
 .blog_section .box .detail-box .img_date {
   position: absolute;
   left: 0;
-  top: 0;
+  top: 30px;
   width: 75px;
   height: 75px;
   border-radius: 100%;
   text-align: center;
-  background-color: #63f74f;
-  color: #ffffff;
+  background-color: rgb(108, 108, 108);
+  color: white;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -801,7 +801,7 @@ color: #BB8B41;
 
 .contact-left .subtitle{
   color: #000;
-  font-family: Cairo Play;
+  font-family: "Poppins" ;
   font-size: 5rem;
 }
 
